@@ -1,6 +1,6 @@
 # Aprendiendo a utilizar FastAPI
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Este repositorio contendra todo el código de una práctica con FastAPI_
 
 ## Comenzando 🚀
 
